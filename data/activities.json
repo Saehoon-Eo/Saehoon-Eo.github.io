@@ -1,0 +1,51 @@
+[
+  {
+    "title": "PDE Perspectives in Gravitational Theory",
+    "sub": { "venue": "International Centre for Mathematical Sciences", "place": "Edinburgh, UK" },
+    "meta": "Sep 7–11, 2026",
+    "url": "https://icms.ac.uk/activities/workshop/pde-perspectives-in-gravitational-theory/"
+  },
+  {
+    "title": "Thematic Program on Shocks and Singularities",
+    "sub": { "venue": "The Fields Institute", "place": "Toronto, ON, Canada" },
+    "meta": "May 11–22, 2026",
+    "url": "http://www.fields.utoronto.ca/activities/25-26/shocks"
+  },
+  {
+    "title": "3rd Simons Math Summer Workshop: Partial Differential Equations of Classical Physics",
+    "sub": { "venue": "Simons Center for Geometry and Physics", "place": "Stony Brook, NY, USA" },
+    "meta": "Jul 7–25, 2025"
+  },
+  {
+    "title": "Workshop on Kinetic Theory and Fluids",
+    "sub": { "venue": "University of Wisconsin–Madison", "place": "Madison, WI, USA" },
+    "meta": "Mar 28–30, 2025"
+  },
+  {
+    "title": "New Trends in Hyperbolic Conservation Laws and Related Models",
+    "sub": { "venue": "Courtyard Marriott Namdaemun", "place": "Seoul, Korea" },
+    "meta": "Jun 23–29, 2024"
+  },
+  {
+    "title": "The 10th Korea PDE Winter School",
+    "sub": { "venue": "Korea Advanced Institute of Science and Technology", "place": "Daejeon, Korea" },
+    "meta": "Feb 19–23, 2024"
+  },
+  {
+    "title": "Fluids in Seoul 2024",
+    "sub": { "venue": "June E Huh Center for Mathematical Challenges, KIAS", "place": "Seoul, Korea" },
+    "meta": "Jan 15–19, 2024"
+  },
+  {
+    "title": "IAS/PCMI Undergraduate Summer School",
+    "sub": { "venue": "Park City Mathematics Institute — Institute for Advanced Study", "place": "Park City, UT, USA" },
+    "meta": "Jul 16 – Aug 5, 2023",
+    "url": "https://www.ias.edu/pcmi/programs/pcmi-2023-undergraduate-summer-school"
+  },
+  {
+    "title": "Singapore International Mathematics Challenge",
+    "sub": { "venue": "NUS High School of Math & Science", "place": "Singapore" },
+    "meta": "May 21–25, 2018",
+    "url": "https://www.nushigh.edu.sg/news-and-events/international-and-national-events/sg-international-math-challenge/"
+  }
+]
