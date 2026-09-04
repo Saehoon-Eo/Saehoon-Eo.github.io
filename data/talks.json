@@ -1,7 +1,12 @@
 [
   {
-    "heading": "Invited Talks",
+    "heading": "Talks",
     "items": [
+      {
+        "title": "ICMS · PDE perspectives in gravitational theory",
+        "sub": "Edinburgh, United Kingdom",
+        "meta": "Sep 8, 2026"
+      },
       {
         "title": "KAIST · Partial Differential Equation Seminar",
         "sub": "Daejeon, South Korea",
