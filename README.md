@@ -55,6 +55,9 @@ edit it. Example:
 Rules of thumb:
 - A block **with** a `journal = {...}` field appears under **Publications**;
   a block **without** one appears under **Preprints**.
+- For a paper that is accepted but not yet in print, keep `journal` and add
+  `status = {to appear}`; it is shown as “*Journal Name*, to appear.” Remove
+  the `status` line once the volume/pages are known.
 - Separate authors with `" and "`, written `Last, First`. Your name (**Eo**)
   is automatically shown in **bold**.
 - Papers appear in the same order they’re listed in the file.

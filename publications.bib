@@ -7,6 +7,9 @@
 %  • A paper with a `journal = {...}` field is shown under "Publications".
 %    A paper without one is shown under "Preprints".
 %    (You can force it either way with:  category = {published}  or  {preprint} )
+%  • Accepted but not yet in print: keep `journal` and add  status = {to appear}
+%    -> shown as "Journal Name, to appear."  Remove the status line (and add
+%    volume/pages/year) once it is published.
 %  • Entries appear on the page in the SAME order they appear in this file.
 %  • Authors: separate with " and ", written "Last, First".
 %    Your own name (Eo) is automatically shown in bold.
@@ -45,17 +48,16 @@
   arxiv   = {2505.15078}
 }
 
+% ------------------------ PUBLICATIONS -------------------------------
+
 @article{eo2024physicalclass,
   title   = {Stability of a Riemann shock in a physical class: from Brenner-Navier-Stokes-Fourier to Euler},
   author  = {Eo, Saehoon and Eun, Namhyun and Kang, Moon-Jin},
   year    = {2024},
-  status  = {Preprint},
+  journal = {Journal de Mathématiques Pures et Appliquées},
+  status  = {to appear},
   arxiv   = {2411.03613}
 }
-
-
-% ------------------------ PUBLICATIONS -------------------------------
-
 @article{eo2026travelinglargeclass,
   title   = {Traveling wave solutions to a large class of Brenner-Navier-Stokes-Fourier system},
   author  = {Eo, Saehoon and Eun, Namhyun},

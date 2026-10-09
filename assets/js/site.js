@@ -156,6 +156,10 @@ function formatAuthors(raw) {
 /* Build the venue / status string. */
 function venueHtml(f) {
   if (f.journal) {
+    // accepted but not yet in print: "Journal, to appear."
+    if (f.status) {
+      return "<em>" + esc(delatex(f.journal)) + "</em>, " + esc(delatex(f.status)) + ".";
+    }
     var v = "<em>" + esc(delatex(f.journal));
     if (f.volume) v += " " + esc(f.volume);
     if (f.number) v += "(" + esc(f.number) + ")";
