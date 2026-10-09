@@ -3,6 +3,11 @@
     "heading": "Talks",
     "items": [
       {
+        "title": "UC Berkeley · Analysis and PDE Seminar",
+        "sub": "Berkeley, United States",
+        "meta": "Oct 5, 2026"
+      },
+      {
         "title": "ICMS · PDE perspectives in gravitational theory",
         "sub": "Edinburgh, United Kingdom",
         "meta": "Sep 8, 2026"
@@ -22,6 +27,11 @@
   {
     "heading": "Presentations & Group Seminars",
     "items": [
+      {
+        "title": "Nonlinear Phase Mixing for Einstein-Vlasov System near Schwarzschild Spacetime",
+        "sub": "Student Geometry Seminar",
+        "meta": "Oct 2, 2026"
+      },
       {
         "title": "A Scattering Theory Approach to Mass Inflation",
         "sub": "Student Geometry Seminar",
